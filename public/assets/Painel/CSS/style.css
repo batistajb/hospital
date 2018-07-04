@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 07/05/2018, 20:11:27
+    Author     : Klevson
+*/
+.title-pg{
+    font-size: 2em;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+.edit{ 
+    background: #242063;
+}
+
+.delete{
+    background:  #b12020;
+}
+
+.actions{
+    padding: 6px;
+    color: #FFF;
+    text-decoration: none;
+    font-size: 1em;
+    margin:  0px 2px;
+}
+
+.actions:hover{
+    text-decoration: none;
+    color: #FFF;
+}
+
+.btn-add{
+    margin-bottom: 10px;
+}
+
